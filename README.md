@@ -10,7 +10,9 @@
 
 前端框架：Koajs
 
-项目地址：[https://gitee.com/featwork/featblog](https://gitee.com/featwork/featblog)
+Gitee：[https://gitee.com/featwork/featblog](https://gitee.com/featwork/featblog)
+
+Github：[https://github.com/Featwork/FeatBlog](https://github.com/Featwork/FeatBlog)
 
 演示地址：[https://featwork.com/blog](https://featwork.com/blog)
 
